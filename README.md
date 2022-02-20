@@ -1,1 +1,2 @@
 # y-zarp
+apt update
